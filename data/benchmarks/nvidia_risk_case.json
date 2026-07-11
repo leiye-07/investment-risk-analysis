@@ -1,0 +1,17 @@
+{
+  "case_id": "nvidia_risk_001",
+  "investment_question": "Identify major downside risks for NVIDIA over the next 12 months.",
+  "expected_findings": [
+    "AI infrastructure capex slowdown",
+    "advanced packaging supply constraints",
+    "valuation sensitivity to interest rates"
+  ],
+  "expected_sources": [
+    "filing",
+    "news",
+    "macro"
+  ],
+  "expected_recommendation": "watch",
+  "expected_confidence": "medium",
+  "metadata": {}
+}

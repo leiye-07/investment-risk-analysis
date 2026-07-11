@@ -1,0 +1,29 @@
+[
+  {
+    "date": "2026-06-30",
+    "source": "Synthetic Macro Dataset",
+    "topic": "semiconductor demand",
+    "indicator": "AI infrastructure capex",
+    "text": "AI infrastructure spending remains elevated, supporting demand, but a slowdown in hyperscaler capex would create cyclical revenue risk for semiconductor suppliers.",
+    "url": "https://example.com/macro/ai-capex",
+    "confidence": 0.66
+  },
+  {
+    "date": "2026-06-30",
+    "source": "Synthetic Macro Dataset",
+    "topic": "interest rates",
+    "indicator": "financial conditions",
+    "text": "Higher-for-longer interest rates can pressure long-duration technology valuations and reduce investor tolerance for execution misses.",
+    "url": "https://example.com/macro/rates-tech-valuations",
+    "confidence": 0.64
+  },
+  {
+    "date": "2026-06-30",
+    "source": "Synthetic Supply Chain Monitor",
+    "topic": "supply chain",
+    "indicator": "advanced packaging capacity",
+    "text": "Advanced packaging capacity remains a potential bottleneck for AI accelerator supply chains, although capacity expansions may mitigate the risk.",
+    "url": "https://example.com/macro/advanced-packaging",
+    "confidence": 0.69
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "entity": "NVIDIA",
+    "source": "Synthetic NVIDIA 10-Q",
+    "filing_type": "10-Q",
+    "period": "FY2027 Q1",
+    "section": "Risk Factors",
+    "title": "Risk Factors - Demand and Supply",
+    "date": "2026-05-10",
+    "url": "https://example.com/filings/nvidia-2026-q1-10q",
+    "text": "Revenue and margin could be materially affected by demand volatility, supply constraints, product transitions, and competition in accelerated computing markets.",
+    "confidence": 0.82
+  },
+  {
+    "entity": "NVIDIA",
+    "source": "Synthetic NVIDIA 10-Q",
+    "filing_type": "10-Q",
+    "period": "FY2027 Q1",
+    "section": "Liquidity",
+    "title": "Liquidity and Capital Resources",
+    "date": "2026-05-10",
+    "url": "https://example.com/filings/nvidia-2026-q1-10q",
+    "text": "Strong cash balances and operating cash flow may mitigate liquidity risk, but working capital needs could rise with supply commitments.",
+    "confidence": 0.8
+  },
+  {
+    "entity": "NVIDIA",
+    "source": "Synthetic NVIDIA 10-K",
+    "filing_type": "10-K",
+    "period": "FY2026",
+    "section": "Business",
+    "title": "Business Overview",
+    "date": "2026-03-01",
+    "url": "https://example.com/filings/nvidia-2026-10k",
+    "text": "The business depends on data center demand, gaming demand, software ecosystem adoption, manufacturing partners, and customer purchasing cycles.",
+    "confidence": 0.78
+  }
+]
